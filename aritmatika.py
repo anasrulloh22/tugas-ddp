@@ -8,11 +8,11 @@ def pengurangan(bil1, bil2):
 
 def perkalian(bil1, bil2):
     hasil = bil1 * bil2
-    print("Hasil perkalian: ", perkalian)
+    print("Hasil perkalian: ", hasil)
 
 def pembagian(bil1, bil2):
     hasil = bil1 / bil2
-    print("Hasil pembagian: ", pembagian)
+    print("Hasil pembagian: ", hasil)
 
 def modulus(bil1, bil2):
     modulus = bil1 % bil2
